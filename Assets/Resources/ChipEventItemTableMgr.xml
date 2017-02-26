@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ChipEventItemTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ChipEventItems>
+    <ChipEventItem>
+		  <Index>1</Index>
+      <Type>notdiscount</Type>
+      <SpriteIcon>chip</SpriteIcon>
+      <SpriteBg>panel_in_b</SpriteBg>
+      <IconType>none</IconType>
+      <Chips>310000</Chips>
+      <Price>3</Price>
+      <Discount>0</Discount>
+      <Url_fb>9</Url_fb>
+      <Url_fbdev>3</Url_fbdev>
+     </ChipEventItem>
+
+    <ChipEventItem>
+      <Index>2</Index>
+      <Type>discount</Type>
+      <SpriteIcon>dollar</SpriteIcon>
+      <SpriteBg>panel_in_b</SpriteBg>
+      <IconType>down</IconType>
+      <Chips>850000</Chips>
+      <Price>8</Price>
+      <Discount>2</Discount>
+      <Url_fb>8</Url_fb>
+      <Url_fbdev>2</Url_fbdev>
+    </ChipEventItem>
+
+    <ChipEventItem>
+      <Index>3</Index>
+      <Type>notdiscount</Type>
+      <SpriteIcon>chip</SpriteIcon>
+      <SpriteBg>panel_in_b</SpriteBg>
+      <IconType>none</IconType>
+      <Chips>1600000</Chips>
+      <Price>15</Price>
+      <Discount>0</Discount>
+      <Url_fb>14</Url_fb>
+      <Url_fbdev>13</Url_fbdev>
+    </ChipEventItem>
+  </ChipEventItems>
+</ChipEventItemTable>
